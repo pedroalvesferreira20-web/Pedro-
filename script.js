@@ -21,7 +21,7 @@ const siteConfig = {
 
 const carouselItems = [
   {
-    src: '/docampoaocopo/img/campo.png', 
+    src: './img/campo.png', 
     alt: 'Campo de cevada em Guarapuava',
     title: 'Campo de cevada',
     description: 'O início da jornada acontece no campo, onde o cultivo da cevada depende de planejamento, clima favorável e cuidado com os recursos naturais.'
